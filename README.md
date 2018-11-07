@@ -1,2 +1,2 @@
-# Event Sourcing and CQRS Examples
+# Event Sourcing - CQRS
 
